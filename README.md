@@ -20,6 +20,10 @@
 3. Get fun !
 ``` 
 
+> # Issue:
+
+* Have an error when powershell must be run: `set-executionpolicy unrestricted`
+
 <br>
 
 > # About.
