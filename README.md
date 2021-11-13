@@ -15,7 +15,7 @@
 > # Setup.
 
 ```sh
-1. pip(3) install numpy colored
+1. pip(3) install numpy colored colorfull
 2. python(3) Batched.py
 3. Get fun !
 ``` 
