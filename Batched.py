@@ -1,3 +1,4 @@
+from colorfull import init; init()
 import random, numpy, os
 from colored import fg
 
